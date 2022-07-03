@@ -65,19 +65,7 @@ export default {
          this.dataForm.birthday = this.data.birthday
          this.dataForm.phone = this.data.phone
          this.dataForm.facebook = this.data.facebook  
-
-         console.log(this.dataForm.facebook)
-
-         // return {
-         //    dataForm : {
-         //    name:this.data.name,
-         //    birthday:this.data.birthday,
-         //    phone:this.data.phone,
-         //    facebook:this.data.facebook,
-         //    }
-         // }
-
-      }
+d        }
   }
 }
 </script>
